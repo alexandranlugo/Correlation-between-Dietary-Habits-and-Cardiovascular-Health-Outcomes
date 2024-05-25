@@ -1,0 +1,2 @@
+# Correlation-between-Dietary-Habits-and-Cardiovascular-Health-Outcomes
+This project analyzes the relationship between dietary habits and cardiovascular health outcomes by examining how dietary patterns influence key health metrics like blood pressure, cholesterol levels, and overall cardiovascular health through data cleaning, statistical modeling, and visualization to identify significant correlations and insights.
