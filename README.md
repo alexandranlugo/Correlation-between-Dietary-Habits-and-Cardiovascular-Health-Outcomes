@@ -73,6 +73,16 @@ The results section of the notebook includes:
 - Scatter plots and regression lines to visualize the relationships.
 - Interpretations of the statistical significance of the findings.
 
+## Contributing
+
+If you wish to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a new Pull Request.
+
 
 ## Contact
 
